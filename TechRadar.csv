@@ -1,0 +1,18 @@
+name,ring,quadrant,isNew,description
+Team cognitive load,Adopt,Techniques,FALSE,
+BERT,Trial,Techniques,FALSE,
+Carbon efficiency as an architectural characteristic,Assess,Techniques,TRUE,
+Superficial cloud native,Hold,Techniques,TRUE,
+OpenShift,Adopt,Platforms,FALSE,
+AWS ROSA,Assess,Platforms,TRUE,
+Mainframe,Hold,Platforms,TRUE,
+Prometheus,Adopt,Tools,TRUE,"""Prometheus"""
+Elastic,Adopt,Tools,TRUE,
+Snyk,Assess,Tools,TRUE,
+Java,Adopt,languages-and-frameworks,TRUE,"""Java"""
+Python,Adopt,languages-and-frameworks,TRUE,"""Python"""
+JavaScript,Adopt,languages-and-frameworks,TRUE,"""javaScript"""
+PowerShell,Adopt,languages-and-frameworks,TRUE,"""PowerShell"""
+COBOL,Hold,languages-and-frameworks,TRUE,"""COBOL"""
+PeopleTools,Hold,languages-and-frameworks,TRUE,"""PeopleTools"""
+React,Adopt,languages-and-frameworks,TRUE,"""React"""
